@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a data scientist passionate about applying machine learning and artificial intelligence to advance health equity and social good. With also a decade of professional experience in science communications and writing, I believe strongly that sharing research findings with a broad range of audiences is key to making a genuine difference.
 <!--
 **jwslau/jwslau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
