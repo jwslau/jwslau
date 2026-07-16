@@ -1,5 +1,5 @@
 ## Hello!
-I am a data scientist passionate about applying machine learning and artificial intelligence to advance health equity and social good. With also a decade of professional experience in science communications and writing, I believe strongly that sharing research findings with a broad range of audiences is key to making a genuine difference in improving health.
+I am a data scientist and science communicator passionate about applying data and artificial intelligence to improve human health, bringing both technical and science writing expertise to translate biomedical research into real-world impact.
 <!--
 **jwslau/jwslau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
